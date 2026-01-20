@@ -1,4 +1,4 @@
-````markdown
+
 # TOPSIS Assignment  
 Name: Rohan Malhotra  
 Roll Number: 102303437  
@@ -30,9 +30,9 @@ The program accepts an input CSV file, a list of weights, and a list of impacts,
 
 ### Command Format
 
-```bash
+
 python topsis.py <inputFileName> <weights> <impacts> <outputFileName>
-````
+
 
 ---
 
@@ -130,7 +130,7 @@ topsis data.csv "1,1,1,1,1" "+,+,-,+,+" output.csv
 
 PASTE YOUR PYPI LINK HERE
 Example:
-[https://pypi.org/project/Topsis-RohanMalhotra-102303437/](https://pypi.org/project/Topsis-RohanMalhotra-102303437/)
+[[https://pypi.org/project/Topsis-RohanMalhotra-102303437/](https://pypi.org/project/Topsis-RohanMalhotra-102303437/)](https://pypi.org/project/Topsis-RohanMalhotra-102303437/1.0.0/)
 
 ---
 
@@ -162,7 +162,7 @@ A web-based TOPSIS application is developed to provide a graphical interface for
 
 PASTE YOUR HOSTED WEBSITE LINK HERE (Render URL)
 Example:
-[https://topsis-rohan.onrender.com](https://topsis-rohan.onrender.com)
+[[https://topsis-rohan.onrender.com](https://topsis-rohan.onrender.com)](https://topsis-rohanmalhotra--RohanMalhotra7.replit.app)
 
 ---
 
