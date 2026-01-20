@@ -128,10 +128,7 @@ topsis data.csv "1,1,1,1,1" "+,+,-,+,+" output.csv
 
 ### PyPI Link
 
-PASTE YOUR PYPI LINK HERE
-Example:
-[[https://pypi.org/project/Topsis-RohanMalhotra-102303437/](https://pypi.org/project/Topsis-RohanMalhotra-102303437/)](https://pypi.org/project/Topsis-RohanMalhotra-102303437/1.0.0/)
-
+https://pypi.org/project/Topsis-RohanMalhotra-102303437/1.0.0/
 ---
 
 ### Notes
@@ -160,9 +157,7 @@ A web-based TOPSIS application is developed to provide a graphical interface for
 
 ### Web Application Link
 
-PASTE YOUR HOSTED WEBSITE LINK HERE (Render URL)
-Example:
-[[https://topsis-rohan.onrender.com](https://topsis-rohan.onrender.com)](https://topsis-rohanmalhotra--RohanMalhotra7.replit.app)
+https://topsis-rohanmalhotra--RohanMalhotra7.replit.app
 
 ---
 
@@ -223,5 +218,3 @@ This project successfully fulfills all requirements of the TOPSIS assignment by 
 
 All parts have been implemented strictly according to the assignment guidelines.
 
-```
-```
